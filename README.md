@@ -1,6 +1,7 @@
-<div dir="rtl">
 # SBU-MSC-thesis-latex
 Latex template for SBU university MSC thesis
+
+<div dir="rtl">
 
 # قالب لاتک دانشکده مهندسی کامپیوتر دانشگاه شهید بهشتی
 
